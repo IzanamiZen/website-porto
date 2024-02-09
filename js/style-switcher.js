@@ -38,145 +38,18 @@ const data = [
       img3: "",
     },
     contact: {
-      wa: "+62895803989861",
+      wa: "+62895803989555",
       located: "Indonesia, South Sulawesi, Makassar",
       email: "callmemats@gmail.com",
-      sosmed: "Instagram : andrhmtt.id",
+      sosmed: "Instagram : matsyu",
     },
   },
   //   Player 2
-  {
-    home: {
-      name: "Muh Zulfachmi Syaghi",
-      position: "Mahasiswa",
-      info: "Awal saya bermain musik pada saat kelas 2 SMP dan saya mulai belajar alat musik drum secara otodidak",
-      fp: "/img/fahmi/me.jpg",
-    },
-    about: {
-      css: "70%",
-      js: "67%",
-      php: "50%",
-      html: "77%",
-      birthday: "20 Jan 2004",
-      formatBirthday: "01-20-2004", // format MM-DD-YY
-      website: "www.zulfachmi.com",
-      email: "zulfachmisyagh@gmail.com",
-      phone: "+6282333379179",
-      desc: "Pengalaman saya tampil di depan umum mulai dari lomba antar sekolah dan berbagai cafe untuk menghibur para pengunjung. pada tahun 2022 lalu saya bergabung sebuah group band yang dinamakan MUSICARSA. Saya di MUSICARSA bermain sebagai drummer",
-      dateeducation1: "2010 - 2016",
-      education1: "SD",
-      infoeducation1: "Bersekolah Di SDN Cendrawasih 1",
-      dateeducation2: "2017 - 2019",
-      education2: "SMP",
-      infoeducation2:
-        "Bersekolah Di Pondok pesantren muhammadiyah darul arqam gombara Makassar",
-      dateeducation3: "2020 - 2022",
-      education3: "SMA",
-      infoeducation3: "Bersekolah Di SMA Negeri 2 Makassar",
-      tldate: "-",
-      tltitle: "-",
-      tltext: "-",
-    },
-    portofolio: {
-      img1: "img/fahmi/porto1.png",
-      img2: "img/fahmi/porto2.png",
-      img3: "",
-    },
-    contact: {
-      wa: "+6282333379179",
-      located: "Indonesia, South Sulawesi, Makassar",
-      email: "zulfachmisyaghi@gmail.com",
-      sosmed: "Instagram : zlfachmii",
-    },
-  },
-  //   player 3
-  {
-    home: {
-      name: "M Khaedir B",
-      position: "Mahasiswa",
-      info: "Perkenalkan nama saya M. Khaedir. B, Saya merupakan website desainer yang baru belajar",
-      fp: "/img/idir/me.jpg",
-    },
-    about: {
-      css: "67%",
-      js: "55%",
-      php: "67%",
-      html: "80%",
-      birthday: "21 Januari 2004",
-      formatBirthday: "01-21-2004", // format MM-DD-YY
-      website: "www.khaedir.com",
-      email: "khaedir@gmail.com",
-      phone: "+62 815-2608-0120",
-      desc: "Saya adalah seorang pemuda kelahiran Sinjai Utara, Sulawesi Selatan, pada tahun 2004. Saya menempuh pendidikan dasar di SDN 103 Sinjai Utara, SMPN 3 Sinjai Utara, dan SMAN 5 Sinjai Utara. Setelah lulus SMAN, Saya melanjutkan pendidikan tinggi di Universitas Islam Negeri Alauddin Makassar, jurusan Teknik Informatika",
-      dateeducation1: "2010 - 2016",
-      education1: "SD",
-      infoeducation1: "Saya bersekolah di SDN 103 Sinjai Utara",
-      dateeducation2: "2016 - 2019",
-      education2: "SMP",
-      infoeducation2: "Saya bersekolah di SMP 3 Sinjai Utara",
-      dateeducation3: "2019 - 2022",
-      education3: "SMA",
-      infoeducation3: "Saya bersekolah di SMAN 5 Sinjai Utara",
-      tldate: "-",
-      tltitle: "-",
-      tltext: "-",
-    },
-    portofolio: {
-      img1: "/img/idir/porto1.jpg",
-      img2: "/img/idir/porto2.jpg",
-      img3: "",
-    },
-    contact: {
-      wa: "+62 815-2608-0120",
-      located: "Indonesia, South Sulawesi, Makassar",
-      email: "mkhaedirb89@gmail.com",
-      sosmed: "Instagram : mkhaedirb",
-    },
-  },
-  //   player 4
-  {
-    home: {
-      name: "Nur Fauzi",
-      position: "Mahasiswa",
-      info: "Perkenalkan saya Nur Fausi, saya merupakan website desainer, dengan keahlian yang terbilang cukup bagus",
-      fp: "/img/fauzi/me.jpg",
-    },
-    about: {
-      css: "89%",
-      js: "70%",
-      php: "30%",
-      html: "97%",
-      birthday: "06 May 2003",
-      formatBirthday: "05-06-2003", // format MM-DD-YY
-      website: "www.nurfauzi.com",
-      email: "nurfauzi@gmail.com",
-      phone: "+62 823-9363-5606",
-      desc: "Saya adalah seorang pemuda kelahiran Soppeng, Sulawesi Selatan, pada tahun 2003. Saya menempuh pendidikan dasar di SDN 37 Kabaro, Mts DDI Mangkoso, dan MA Madani. Setelah lulus MA, Saya melanjutkan pendidikan tinggi di Universitas Islam Negeri Alauddin Makassar, jurusan Teknik Informatika",
-      dateeducation1: "2009 - 2015",
-      education1: "SD",
-      infoeducation1: "Saya bersekolah di SDN 37 Kabaro",
-      dateeducation2: "2015 - 2018",
-      education2: "SMP",
-      infoeducation2: "Saya bersekolah di MTS DDI Mangkoso",
-      dateeducation3: "2019 - 2022",
-      education3: "MA",
-      infoeducation3: "Saya bersekolah di MA Madani",
-      tldate: "-",
-      tltitle: "-",
-      tltext: "-",
-    },
-    portofolio: {
-      img1: "/img/fauzi/porto1.jpg",
-      img2: "/img/fauzi/porto2.jpg",
-      img3: "",
-    },
-    contact: {
-      wa: "+62 823-9363-5606",
-      located: "Indonesia, South Sulawesi, Makassar",
-      email: "nurfauzi@gmail.com",
-      sosmed: "Instagram : fauzy islam ali",
-    },
-  },
+  // ...
+  // Player 3
+  // ...
+  // Player 4
+  // ...
 ];
 
 function sumAge(birthday) {
